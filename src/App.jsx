@@ -49,7 +49,7 @@ function App() {
         top: "440px",
         left: "23vw",
       }}>
-         <p onClick={downloadResume} style={{ cursor: "pointer", color: "blue" , marginLeft: "40px", fontSize: "20px"}}>
+         <p onClick={downloadResume} style={{ cursor: "pointer", color: "blue" , fontSize: "20px"}}>
           Resume
         </p>
       </div> 
